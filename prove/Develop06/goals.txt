@@ -1,0 +1,4 @@
+200
+EternalGoal|Eternal Life|I will go to the church every week|100
+SimpleGoal|Talk with my brother|Talk more with my brother|100|True
+ChecklistGoal|Clear my room|I need to have my room more clean|100|1|5|1000
